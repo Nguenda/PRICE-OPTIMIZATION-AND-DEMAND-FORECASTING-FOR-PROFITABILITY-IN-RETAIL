@@ -31,3 +31,10 @@ The dataset contains information on **demand** and the corresponding **average u
 ## Overview
 
 This project is tailored for businesses operating in the retail and e-commerce industry, where effective pricing strategies are crucial for competitive advantage. In this industry, products are diverse, customer preferences are dynamic, and the competition is fierce. Companies must balance pricing, operational costs, and customer retention to maintain profitability and market relevance. The project's bjective is to analyze historical data to identify the most efficient pricing strategy for products that optimizes the company’s profitability. The goal is to strike the right balance between price, demand, and supply, considering internal costs, customer retention, and competition.
+
+## EDA
+![Alt Text](Images/transactions.png)
+
+![Alt Text](Images/newplot.png)
+
+![Alt Text](Images/prdtid.png)

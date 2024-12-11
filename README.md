@@ -56,4 +56,6 @@ This project is tailored for businesses operating in the retail and e-commerce i
 
 ![Alt Text](Images/seasomality_price_year.png) 
 
+#### Data decomposition
 
+![Alt Text](Images/data_dec.png) 

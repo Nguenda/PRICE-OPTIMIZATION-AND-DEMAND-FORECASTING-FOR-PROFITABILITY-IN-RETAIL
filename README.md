@@ -38,3 +38,10 @@ This project is tailored for businesses operating in the retail and e-commerce i
 ![Alt Text](Images/newplot.png)
 
 ![Alt Text](Images/prdtid.png)
+
+#### Customers
+![Alt Text](Images/customer_month.png)   ![Alt Text](Images/cust_prod.png)
+
+![Alt Text](Images/seasonal_var_cust.png)
+
+

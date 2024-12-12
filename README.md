@@ -56,6 +56,16 @@ This project is tailored for businesses operating in the retail and e-commerce i
 
 ![Alt Text](Images/seasomality_price_year.png) 
 
+#### Revenue 
+
+![Alt Text](Images/revenue_over_time.png) 
+
+![Alt Text](Images/revenue_by_product.png)
+
+![Alt Text](Images/revenue_weekday.png)
+
 #### Data decomposition: company vs. competitors
 
-![Alt Text](Images/data_dec.png) 
+![Alt Text](Images/data_dec.png)
+
+![Alt Text](Images/comp_pany.png)

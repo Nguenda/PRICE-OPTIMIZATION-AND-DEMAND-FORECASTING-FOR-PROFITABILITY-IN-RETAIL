@@ -137,3 +137,20 @@ The results suggest that competitor prices (`comp1_diff`, `comp2_diff`, `comp3_d
 
 These insights highlight the need to focus on these key areas to better understand and optimize customer demand.
 
+![Alt Text](Images/fpi_matrix.png)
+
+![Alt Text](Images/freight_test.png)
+
+**Insights**  
+1. **Freight Price Impact (Competitor 1)**:  
+   - The statistical test for `fp1_diff` suggests that freight price differences with Competitor 1 might influence the quantity ordered (`qty`).  
+   - However, the regression model does not find a significant effect of any freight price differences, including `fp1_diff`, on `qty`.
+
+2. **Freight Price Impact (Competitors 2 and 3)**:  
+   - Freight price differences (`fp2_diff` and `fp3_diff`) with Competitors 2 and 3 show no significant influence on `qty` in both statistical tests and regression results.
+
+3. **Model Explanatory Power**:  
+   - The overall regression model has very low explanatory power, suggesting that factors other than freight price differences are driving changes in the quantity ordered.  
+
+
+#### Analyze other features

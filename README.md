@@ -178,13 +178,24 @@ These insights highlight the need to focus on these key areas to better understa
 
 The inclusion of additional features reduced MSE from 167.09 to 132.48, indicating that the additional features explain more variance in the target variable.
 
-### Implications for Pricing Strategy
+**Implications for Pricing Strategy**
 
-#### Incorporating Product Features:
+**Incorporating Product Features:**
 - **Product_photos_qty** and **product_weight_g** are significant in the 9-feature model, suggesting that customers are influenced by the quantity of product visuals and product weight. These factors can help justify higher pricing if communicated effectively in marketing.
 
-#### Core Drivers:
+**Core Drivers:**
 - **Customers** and **volume** remain core predictors across models, reinforcing their critical role in forecasting demand and, consequently, profitability.
 
-#### Reduced Importance of Holiday:
+**Reduced Importance of Holiday:**
 - The minimal impact of **holiday** across both models suggests that seasonal variations are not significant for this dataset.
+
+**With prices**
+
+**Features used:** `product_category_name`, `qty`, `freight_price`, `unit_price`, `product_name_lenght`, `product_description_lenght`, `product_photos_qty`, `product_weight_g`, `product_score`, `customers`, `volume`, `comp_1`, `ps1`, `fp1`, `comp_2`, `ps2`, `fp2`, `comp_3`, `ps3`, `fp3`, `lag_price`
+
+![Alt Text](Images/xgboost_more.png)
+
+**Mean Squared Error (MSE)** | **142.54**
+**Top 2 Features by Importance** | **product_photos_qty (13.4%)** & **customers (24.5%)** 
+
+Key factors driving sales volume are customer count, product photos, and freight price, while pricing and competitor data have a secondary influence. Focusing on product visibility and customer engagement could be more impactful than adjusting prices alone.

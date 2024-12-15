@@ -196,6 +196,11 @@ The inclusion of additional features reduced MSE from 167.09 to 132.48, indicati
 ![Alt Text](Images/xgboost_more.png)
 
 **Mean Squared Error (MSE)** | **142.54**
+
 **Top 2 Features by Importance** | **product_photos_qty (13.4%)** & **customers (24.5%)** 
 
 Key factors driving sales volume are customer count, product photos, and freight price, while pricing and competitor data have a secondary influence. Focusing on product visibility and customer engagement could be more impactful than adjusting prices alone.
+
+**Conclusion:**
+
+The 9-feature model with customers, product photos, and product weight as key drivers of sales is the more effective model for predicting quantity ordered, achieving a lower MSE. While freight price is important, its inclusion in the more-feature model did not result in a performance improvement, indicating that the complexity introduced by adding price-related features may not necessarily lead to better predictions. This reinforces the notion that product characteristics and customer engagement are more influential in driving sales than pricing factors.

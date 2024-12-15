@@ -155,12 +155,36 @@ These insights highlight the need to focus on these key areas to better understa
 
 #### Analyze other features
 
-### Comparison of Models
+**XGBoost models were used to determine which features influence the quantity of products ordered, as well as the revenue and profitability in the same order**
 
-### Comparison of Models
+![Alt Text](Images/xgboost_5.png)
+
+![Alt Text](Images/xgboos_9.png)
+
+**With 9 Features:**
+- **Customers** remains the most important feature, suggesting that the number of customers significantly impacts quantity ordered.
+- **Product_photos_qty** and **product_weight_g** gain importance, indicating that more photos and heavier products might positively affect sales quantity.
+- Features like **holiday** and **product_score** remain less impactful.
+
+**With 5 Features:**
+- **Volume** and **customers** dominate, indicating their importance in simpler models.
+
 
 | **Metrics**                  | **5 Features**                                               | **9 Features**                                                                                          |
 |------------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | **Features Used**            | `'product_score', 'holiday', 'volume', 'customers', 'product_category_name'` | `'product_score', 'holiday', 'volume', 'customers', 'product_category_name', 'product_name_lenght', 'product_description_lenght', 'product_photos_qty', 'product_weight_g'` |
-| **Mean Squared Error (MSE)** | **184.85**                                                  | **136.53**                                                                                             |
+| **Mean Squared Error (MSE)** | **167.09**                                                  | **132.48**                                                                                             |
 | **Top 2 Features by Importance** | **volume (38.2%)** & **customers (35.9%)**                     | **customers (33.1%)** & **product_photos_qty (16.4%)**                                                  |
+
+The inclusion of additional features reduced MSE from 167.09 to 132.48, indicating that the additional features explain more variance in the target variable.
+
+### Implications for Pricing Strategy
+
+#### Incorporating Product Features:
+- **Product_photos_qty** and **product_weight_g** are significant in the 9-feature model, suggesting that customers are influenced by the quantity of product visuals and product weight. These factors can help justify higher pricing if communicated effectively in marketing.
+
+#### Core Drivers:
+- **Customers** and **volume** remain core predictors across models, reinforcing their critical role in forecasting demand and, consequently, profitability.
+
+#### Reduced Importance of Holiday:
+- The minimal impact of **holiday** across both models suggests that seasonal variations are not significant for this dataset.

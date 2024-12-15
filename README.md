@@ -157,8 +157,10 @@ These insights highlight the need to focus on these key areas to better understa
 
 ### Comparison of Models
 
-| **Metrics**                  | **5 Features**                                               | **9 Features**                                                   |
-|------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------|
-| **Features Used**            | `'product_score', 'holiday', 'volume', 'customers', 'product_category_name'` | All features including lengths, photos, and weight             |
-| **Mean Squared Error (MSE)** | **184.85**                                                  | **136.53**                                                      |
-| **Top 2 Features by Importance** | **volume (38.2%)** & **customers (35.9%)**                     | **customers (33.1%)** & **product_photos_qty (16.4%)**           |
+### Comparison of Models
+
+| **Metrics**                  | **5 Features**                                               | **9 Features**                                                                                          |
+|------------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Features Used**            | `'product_score', 'holiday', 'volume', 'customers', 'product_category_name'` | `'product_score', 'holiday', 'volume', 'customers', 'product_category_name', 'product_name_lenght', 'product_description_lenght', 'product_photos_qty', 'product_weight_g'` |
+| **Mean Squared Error (MSE)** | **184.85**                                                  | **136.53**                                                                                             |
+| **Top 2 Features by Importance** | **volume (38.2%)** & **customers (35.9%)**                     | **customers (33.1%)** & **product_photos_qty (16.4%)**                                                  |

@@ -66,17 +66,17 @@ This project is tailored for businesses operating in the retail and e-commerce i
 
 <details>
   <summary>Product Category: Bed Bath Table</summary>
-  <p>Click below to view the trend image for Bed1</p>
+
+  <p>Click below to view the trend images for Bed Bath Table products:</p>
+
   ![Bed1 Price Trend](Images/bed_bath_table_bed1.png)
-  <p>Click below to view the trend image for Bed2</p>
   ![Bed2 Price Trend](Images/bed_bath_table_bed2.png)
-  <p>Click below to view the trend image for Bed3</p>
   ![Bed3 Price Trend](Images/bed_bath_table_bed3.png)
-  <p>Click below to view the trend image for Bed4</p>
   ![Bed4 Price Trend](Images/bed_bath_table_bed4.png)
-  <p>Click below to view the trend image for Bed5</p>
   ![Bed5 Price Trend](Images/bed_bath_table_bed5.png)
+
 </details>
+
 
 <details>
   <summary>Product Category: Garden Tools</summary>

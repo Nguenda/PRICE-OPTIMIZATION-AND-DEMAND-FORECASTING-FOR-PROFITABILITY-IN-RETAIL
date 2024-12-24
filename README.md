@@ -46,6 +46,8 @@ This project is tailored for businesses operating in the retail and e-commerce i
 
 ![Alt Text](Images/seasonal_var_cust.png)
 
+![Alt Text](Images/correlation analysis.png)
+
 #### Prices  
 
 ![Alt Text](Images/avg_price.png) 

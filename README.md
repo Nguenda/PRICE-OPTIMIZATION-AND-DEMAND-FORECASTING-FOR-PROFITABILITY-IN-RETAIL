@@ -58,6 +58,29 @@ This project is tailored for businesses operating in the retail and e-commerce i
 
 ![Alt Text](Images/seasomality_price_year.png) 
 
+**For each product ID in each category**
+
+# Product Trend Plots
+
+## Click to View Product Trend Images
+
+<details>
+  <summary>Product Category: Bed Bath Table</summary>
+  <p>Click below to view the trend image for Bed1</p>
+  ![Bed1 Price Trend](Images/price_trends.png)
+  <p>Click below to view the trend image for Bed2</p>
+  ![Bed2 Price Trend](Images/seasomality_price_year.png)
+</details>
+
+<details>
+  <summary>Product Category: Garden Tools</summary>
+  <p>Click below to view the trend image for Garden5</p>
+  ![Garden5 Price Trend](plots_images/garden_tools_garden5.png)
+  <p>Click below to view the trend image for Garden6</p>
+  ![Garden6 Price Trend](plots_images/garden_tools_garden6.png)
+</details>
+
+
 #### Revenue 
 
 ![Alt Text](Images/revenue_over_time.png) 

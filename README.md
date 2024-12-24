@@ -67,140 +67,140 @@ This project is tailored for businesses operating in the retail and e-commerce i
 <details>
   <summary>Product Category: Bed Bath Table</summary>
   <p>Click below to view the trend image for Bed1</p>
-  ![Bed1 Price Trend](plots_images/bed_bath_table_bed1.png)
+  ![Bed1 Price Trend](Images/bed_bath_table_bed1.png)
   <p>Click below to view the trend image for Bed2</p>
-  ![Bed2 Price Trend](plots_images/bed_bath_table_bed2.png)
+  ![Bed2 Price Trend](Images/bed_bath_table_bed2.png)
   <p>Click below to view the trend image for Bed3</p>
-  ![Bed3 Price Trend](plots_images/bed_bath_table_bed3.png)
+  ![Bed3 Price Trend](Images/bed_bath_table_bed3.png)
   <p>Click below to view the trend image for Bed4</p>
-  ![Bed4 Price Trend](plots_images/bed_bath_table_bed4.png)
+  ![Bed4 Price Trend](Images/bed_bath_table_bed4.png)
   <p>Click below to view the trend image for Bed5</p>
-  ![Bed5 Price Trend](plots_images/bed_bath_table_bed5.png)
+  ![Bed5 Price Trend](Images/bed_bath_table_bed5.png)
 </details>
 
 <details>
   <summary>Product Category: Garden Tools</summary>
   <p>Click below to view the trend image for Garden1</p>
-  ![Garden1 Price Trend](plots_images/garden_tools_garden1.png)
+  ![Garden1 Price Trend](Images/garden_tools_garden1.png)
   <p>Click below to view the trend image for Garden2</p>
-  ![Garden2 Price Trend](plots_images/garden_tools_garden2.png)
+  ![Garden2 Price Trend](Images/garden_tools_garden2.png)
   <p>Click below to view the trend image for Garden3</p>
-  ![Garden3 Price Trend](plots_images/garden_tools_garden3.png)
+  ![Garden3 Price Trend](Images/garden_tools_garden3.png)
   <p>Click below to view the trend image for Garden4</p>
-  ![Garden4 Price Trend](plots_images/garden_tools_garden4.png)
+  ![Garden4 Price Trend](Images/garden_tools_garden4.png)
   <p>Click below to view the trend image for Garden5</p>
-  ![Garden5 Price Trend](plots_images/garden_tools_garden5.png)
+  ![Garden5 Price Trend](Images/garden_tools_garden5.png)
   <p>Click below to view the trend image for Garden6</p>
-  ![Garden6 Price Trend](plots_images/garden_tools_garden6.png)
+  ![Garden6 Price Trend](Images/garden_tools_garden6.png)
   <p>Click below to view the trend image for Garden7</p>
-  ![Garden7 Price Trend](plots_images/garden_tools_garden7.png)
+  ![Garden7 Price Trend](Images/garden_tools_garden7.png)
   <p>Click below to view the trend image for Garden8</p>
-  ![Garden8 Price Trend](plots_images/garden_tools_garden8.png)
+  ![Garden8 Price Trend](Images/garden_tools_garden8.png)
   <p>Click below to view the trend image for Garden9</p>
-  ![Garden9 Price Trend](plots_images/garden_tools_garden9.png)
+  ![Garden9 Price Trend](Images/garden_tools_garden9.png)
   <p>Click below to view the trend image for Garden10</p>
-  ![Garden10 Price Trend](plots_images/garden_tools_garden10.png)
+  ![Garden10 Price Trend](Images/garden_tools_garden10.png)
 </details>
 
 <details>
   <summary>Product Category: Computers Accessories</summary>
   <p>Click below to view the trend image for Computers1</p>
-  ![Computers1 Price Trend](plots_images/computers_accessories_computers1.png)
+  ![Computers1 Price Trend](Images/computers_accessories_computers1.png)
   <p>Click below to view the trend image for Computers2</p>
-  ![Computers2 Price Trend](plots_images/computers_accessories_computers2.png)
+  ![Computers2 Price Trend](Images/computers_accessories_computers2.png)
   <p>Click below to view the trend image for Computers3</p>
-  ![Computers3 Price Trend](plots_images/computers_accessories_computers3.png)
+  ![Computers3 Price Trend](Images/computers_accessories_computers3.png)
   <p>Click below to view the trend image for Computers4</p>
-  ![Computers4 Price Trend](plots_images/computers_accessories_computers4.png)
+  ![Computers4 Price Trend](Images/computers_accessories_computers4.png)
   <p>Click below to view the trend image for Computers5</p>
-  ![Computers5 Price Trend](plots_images/computers_accessories_computers5.png)
+  ![Computers5 Price Trend](Images/computers_accessories_computers5.png)
   <p>Click below to view the trend image for Computers6</p>
-  ![Computers6 Price Trend](plots_images/computers_accessories_computers6.png)
+  ![Computers6 Price Trend](Images/computers_accessories_computers6.png)
 </details>
 
 <details>
   <summary>Product Category: Health Beauty</summary>
   <p>Click below to view the trend image for Health1</p>
-  ![Health1 Price Trend](plots_images/health_beauty_health1.png)
+  ![Health1 Price Trend](Images/health_beauty_health1.png)
   <p>Click below to view the trend image for Health2</p>
-  ![Health2 Price Trend](plots_images/health_beauty_health2.png)
+  ![Health2 Price Trend](Images/health_beauty_health2.png)
   <p>Click below to view the trend image for Health3</p>
-  ![Health3 Price Trend](plots_images/health_beauty_health3.png)
+  ![Health3 Price Trend](Images/health_beauty_health3.png)
   <p>Click below to view the trend image for Health4</p>
-  ![Health4 Price Trend](plots_images/health_beauty_health4.png)
+  ![Health4 Price Trend](Images/health_beauty_health4.png)
   <p>Click below to view the trend image for Health5</p>
-  ![Health5 Price Trend](plots_images/health_beauty_health5.png)
+  ![Health5 Price Trend](Images/health_beauty_health5.png)
   <p>Click below to view the trend image for Health6</p>
-  ![Health6 Price Trend](plots_images/health_beauty_health6.png)
+  ![Health6 Price Trend](Images/health_beauty_health6.png)
   <p>Click below to view the trend image for Health7</p>
-  ![Health7 Price Trend](plots_images/health_beauty_health7.png)
+  ![Health7 Price Trend](Images/health_beauty_health7.png)
   <p>Click below to view the trend image for Health8</p>
-  ![Health8 Price Trend](plots_images/health_beauty_health8.png)
+  ![Health8 Price Trend](Images/health_beauty_health8.png)
   <p>Click below to view the trend image for Health9</p>
-  ![Health9 Price Trend](plots_images/health_beauty_health9.png)
+  ![Health9 Price Trend](Images/health_beauty_health9.png)
   <p>Click below to view the trend image for Health10</p>
-  ![Health10 Price Trend](plots_images/health_beauty_health10.png)
+  ![Health10 Price Trend](Images/health_beauty_health10.png)
 </details>
 
 <details>
   <summary>Product Category: Cool Stuff</summary>
   <p>Click below to view the trend image for Cool1</p>
-  ![Cool1 Price Trend](plots_images/cool_stuff_cool1.png)
+  ![Cool1 Price Trend](Images/cool_stuff_cool1.png)
   <p>Click below to view the trend image for Cool2</p>
-  ![Cool2 Price Trend](plots_images/cool_stuff_cool2.png)
+  ![Cool2 Price Trend](Images/cool_stuff_cool2.png)
   <p>Click below to view the trend image for Cool3</p>
-  ![Cool3 Price Trend](plots_images/cool_stuff_cool3.png)
+  ![Cool3 Price Trend](Images/cool_stuff_cool3.png)
   <p>Click below to view the trend image for Cool4</p>
-  ![Cool4 Price Trend](plots_images/cool_stuff_cool4.png)
+  ![Cool4 Price Trend](Images/cool_stuff_cool4.png)
   <p>Click below to view the trend image for Cool5</p>
-  ![Cool5 Price Trend](plots_images/cool_stuff_cool5.png)
+  ![Cool5 Price Trend](Images/cool_stuff_cool5.png)
 </details>
 <details>
   <summary>Product Category: Watches Gifts</summary>
   <p>Click below to view the trend image for Watches1</p>
-  ![Watches1 Price Trend](plots_images/watches_gifts_watches1.png)
+  ![Watches1 Price Trend](Images/watches_gifts_watches1.png)
   <p>Click below to view the trend image for Watches2</p>
-  ![Watches2 Price Trend](plots_images/watches_gifts_watches2.png)
+  ![Watches2 Price Trend](Images/watches_gifts_watches2.png)
   <p>Click below to view the trend image for Watches3</p>
-  ![Watches3 Price Trend](plots_images/watches_gifts_watches3.png)
+  ![Watches3 Price Trend](Images/watches_gifts_watches3.png)
   <p>Click below to view the trend image for Watches4</p>
-  ![Watches4 Price Trend](plots_images/watches_gifts_watches4.png)
+  ![Watches4 Price Trend](Images/watches_gifts_watches4.png)
   <p>Click below to view the trend image for Watches5</p>
-  ![Watches5 Price Trend](plots_images/watches_gifts_watches5.png)
+  ![Watches5 Price Trend](Images/watches_gifts_watches5.png)
   <p>Click below to view the trend image for Watches6</p>
-  ![Watches6 Price Trend](plots_images/watches_gifts_watches6.png)
+  ![Watches6 Price Trend](Images/watches_gifts_watches6.png)
   <p>Click below to view the trend image for Watches7</p>
-  ![Watches7 Price Trend](plots_images/watches_gifts_watches7.png)
+  ![Watches7 Price Trend](Images/watches_gifts_watches7.png)
   <p>Click below to view the trend image for Watches8</p>
-  ![Watches8 Price Trend](plots_images/watches_gifts_watches8.png)
+  ![Watches8 Price Trend](Images/watches_gifts_watches8.png)
 </details>
 
 <details>
   <summary>Product Category: Furniture Decor</summary>
   <p>Click below to view the trend image for Furniture1</p>
-  ![Furniture1 Price Trend](plots_images/furniture_decor_furniture1.png)
+  ![Furniture1 Price Trend](Images/furniture_decor_furniture1.png)
   <p>Click below to view the trend image for Furniture2</p>
-  ![Furniture2 Price Trend](plots_images/furniture_decor_furniture2.png)
+  ![Furniture2 Price Trend](Images/furniture_decor_furniture2.png)
   <p>Click below to view the trend image for Furniture3</p>
-  ![Furniture3 Price Trend](plots_images/furniture_decor_furniture3.png)
+  ![Furniture3 Price Trend](Images/furniture_decor_furniture3.png)
   <p>Click below to view the trend image for Furniture4</p>
-  ![Furniture4 Price Trend](plots_images/furniture_decor_furniture4.png)
+  ![Furniture4 Price Trend](Images/furniture_decor_furniture4.png)
 </details>
 
 <details>
   <summary>Product Category: Consoles Games</summary>
   <p>Click below to view the trend image for Consoles1</p>
-  ![Consoles1 Price Trend](plots_images/consoles_games_consoles1.png)
+  ![Consoles1 Price Trend](Images/consoles_games_consoles1.png)
   <p>Click below to view the trend image for Consoles2</p>
-  ![Consoles2 Price Trend](plots_images/consoles_games_consoles2.png)
+  ![Consoles2 Price Trend](Images/consoles_games_consoles2.png)
 </details>
 
 <details>
   <summary>Product Category: Perfumery</summary>
   <p>Click below to view the trend image for Perfumery1</p>
-  ![Perfumery1 Price Trend](plots_images/perfumery_perfumery1.png)
+  ![Perfumery1 Price Trend](Images/perfumery_perfumery1.png)
   <p>Click below to view the trend image for Perfumery2</p>
-  ![Perfumery2 Price Trend](plots_images/perfumery_perfumery2.png)
+  ![Perfumery2 Price Trend](Images/perfumery_perfumery2.png)
 </details>
 
 

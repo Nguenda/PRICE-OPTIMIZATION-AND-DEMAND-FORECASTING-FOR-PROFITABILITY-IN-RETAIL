@@ -323,3 +323,16 @@ Key factors driving sales volume are customer count, product photos, and freight
 **Conclusion:**
 
 The 9-feature model with customers, product photos, and product weight as key drivers of sales is the more effective model for predicting quantity ordered, achieving a lower MSE. While freight price is important, its inclusion in the more-feature model did not result in a performance improvement, indicating that the complexity introduced by adding price-related features may not necessarily lead to better predictions. This reinforces the notion that product characteristics and customer engagement are more influential in driving sales than pricing factors.
+
+#### Lag Price
+![Alt Text](Images/lappricetrend.png)
+
+![Alt Text](Images/lagprice.png)
+
+**Interpretation:**
+The lag price's strong effect on the current price suggests that historical pricing significantly influences current pricing decisions.
+This aligns with real-world pricing practices, where past prices often anchor current decisions.
+
+**Action:**
+Retain the lag_price variable as it is a key predictor.
+Investigate interaction terms with lag_price to see if they can add meaningful insights, but keep only statistically significant ones.
